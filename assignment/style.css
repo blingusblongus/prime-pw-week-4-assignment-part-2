@@ -1,4 +1,4 @@
-header {
+.header {
   background-color: PapayaWhip;
 }
 
@@ -7,6 +7,12 @@ header {
   color: purple;
 }
 
-#car-photo {
+.center-photo-large {
+  display: block;
   width: 80%;
+  margin: auto;
+}
+
+.description-text {
+  background-color: orange;
 }
