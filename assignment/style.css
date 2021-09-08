@@ -14,6 +14,7 @@
 }
 
 .description-text {
-  background-color: orange;
+  background-color: hsl(10deg, 10%, 90%);
+  color: #1100c2;
 
 }
