@@ -6,3 +6,7 @@ header {
   background-color: MintCream;
   color: purple;
 }
+
+#car-photo {
+  width: 80%;
+}
